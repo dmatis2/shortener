@@ -1,0 +1,17 @@
+:root {
+	--dark: #1A1F16;
+	--forest: #1E3F20;
+	--hunter: #345830;
+	--amazon: #4A7856;
+	--mint: #94ECBE;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100vw;
+	height: 100vh;
+}
